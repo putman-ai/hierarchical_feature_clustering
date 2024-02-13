@@ -1,2 +1,2 @@
 # hierarchical_feature_clustering
-A prototype for feature selection using hierarchical clustering as a basis.
+Extending De Prado's HRP to feature selection and grouping.
